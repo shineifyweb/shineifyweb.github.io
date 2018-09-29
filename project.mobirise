@@ -30,7 +30,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 84,
+    "uniqCompNum": 97,
     "versionPublish": "4.8.2"
   },
   "pages": {
@@ -286,16 +286,16 @@
           },
           "title1": "Cambio de Cheques",
           "subtitle1": "Rapidez y bajo costo.",
-          "caption1": "Cambiamos su cheque de gobierno, seguro social, payroll, taxes, desempleo, disability, otros desde el 1% de comision.",
+          "caption1": "Cambiamos su cheque de gobierno, seguro social, payroll, taxes, desempleo, disability y &nbsp;otros.",
           "title2": "Envios de Dinero",
           "subtitle2": "Seguridad y eficiente servicio.",
-          "caption2": "Por $5.00 envie su dinero a todo Mexico, Guatemala, Honduras, El Salvador, Nicaragua y el resto del mundo. &nbsp;Giros al instante y una red muy amplia de bancos y casas de cambio.",
+          "caption2": "Envie su dinero a todo Mexico, Guatemala, Honduras, El Salvador, Nicaragua y el resto del mundo. &nbsp;Giros al instante y una red muy amplia de bancos y casas de cambio.",
           "title3": "Tarjetas Telefonicas",
           "subtitle3": "Boss Revolution",
           "caption3": "Recargas de celulares, locales e internacionales.",
           "title4": "Pago de \"Biles\"",
           "subtitle4": "Visite nuestras oficinas",
-          "caption4": "Pago de servicios de utilidades: electricidad, agua, telefonos. Tarjetas de credito, seguros, pago de puentes (Fastrak).",
+          "caption4": "Pago de servicios de utilidades: electricidad, agua &nbsp;y telefonos celulares. Tarjetas de credito y de tiendas.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -817,16 +817,16 @@
           },
           "title1": "Cambio de Cheques",
           "subtitle1": "Rapidez y bajo costo.",
-          "caption1": "Cambiamos su cheque de gobierno, payroll, taxes, desempleo, disability y otros.",
+          "caption1": "Cambiamos su cheque de gobierno, seguro social, payroll, taxes, desempleo, disability y  otros.",
           "title2": "Envios de Dinero",
           "subtitle2": "Seguridad y eficiente servicio.",
-          "caption2": "Envie su dinero a todo Mexico, Guatemala, Honduras, El Salvador, Nicaragua y el resto del mundo. &nbsp;Giros al instante y una red muy amplia de bancos y casas de cambio.",
+          "caption2": "Envie su dinero a todo Mexico, Guatemala, Honduras, El Salvador, Nicaragua y el resto del mundo.  Giros al instante y una red muy amplia de bancos y casas de cambio.",
           "title3": "Tarjetas Telefonicas",
           "subtitle3": "Boss Revolution",
           "caption3": "Recargas de celulares, locales e internacionales.",
           "title4": "Pago de \"Biles\"",
           "subtitle4": "Visite nuestras oficinas",
-          "caption4": "Pago de servicios de utilidades: electricidad, agua, telefonos. Tarjetas de credito y de tiendas,&nbsp;",
+          "caption4": "Pago de servicios de utilidades: electricidad, agua  y telefonos celulares. Tarjetas de credito y de tiendas.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -874,7 +874,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1159,7 +1159,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1614,7 +1614,7 @@
               "size": 0
             }
           },
-          "title": "Office en Hyde",
+          "title": "Oficina en Hyde",
           "text": "149 Hyde Street<br>Tel: 415-929-7860<br>Fax: 415-929-7895<br>Horarios: De Lunes a Viernes: 8 am - 6 pm, Sabado: 8 am - 4 pm, Domingo: 8 am - 2 pm&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Visitenos</a>",
           "_tags": [
