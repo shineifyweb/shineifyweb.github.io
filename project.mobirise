@@ -874,7 +874,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1152,14 +1152,14 @@
         }
       ]
     },
-    "page6.html": {
+    "locaciones.html": {
       "settings": {
         "title": "Locaciones",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 3
       },
       "components": [
         {
